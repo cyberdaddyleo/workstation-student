@@ -1,0 +1,14 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Local dependencies and logs
+node_modules/
+*.log
+
+# Secrets and personal backups
+.env
+.env.*
+!.env.example
+大学生工作台备份-*.json
+backups/
